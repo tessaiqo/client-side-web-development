@@ -4,7 +4,6 @@
 ### Выполнила: Зверева Таисия Дмитриевна
 ### ИСУ: 408652
 ---
-![IMAGE 2026-02-11 23:39:51](https://github.com/user-attachments/assets/bc762f78-344c-4dc8-b33f-8bd3a16a9f56)
 
 ## Ход выполнения работы
 
@@ -281,9 +280,8 @@ git push
 
 ---
 
-### Вот сылки на некоторые скриншоты в Google Диске для подтверждения проделанной работы
+### скриншоты
+![IMAGE 2026-02-14 17:21:18](https://github.com/user-attachments/assets/767aeda8-987b-4c8d-8769-283e02a7f56d)
+![IMAGE 2026-02-14 17:21:20](https://github.com/user-attachments/assets/20cb718a-f5b1-4c2a-98b4-89b28b70c956)
+![IMAGE 2026-02-14 17:21:23](https://github.com/user-attachments/assets/01eeaa5b-8f83-405c-8d57-3e4f4388b040)
 
-* [Скриншот №1](https://drive.google.com/file/d/1sEHHfwL0jIIV1631cKB4WdUYOkg8WOzv/view?usp=sharing) 
-* [Скриншот №2](https://drive.google.com/file/d/1zPHjo2CPDRMfcicWBQFPX4Y4wvotbK8d/view?usp=sharing) 
-* [Скриншот №3](https://drive.google.com/file/d/1qouj-SbXsuUJUYAJB-SczlZkVl5h86Cb/view?usp=sharing)
-  
