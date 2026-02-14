@@ -1,13 +1,8 @@
 ---
-# Отчёт по лабораторной работе №1: Работа с Git
+# Отчёт по лабораторной работе №1: Работа с Git и Github Desktop
 
 ### Выполнила: Зверева Таисия Дмитриевна
 ### ИСУ: 408652
----
-
-## Цель работы: 
-Исследовать возможности на выбор одного из десктопных клиентов для работы с Git при выполнении наиболее распространенных команд.
-
 ---
 
 ## Ход выполнения работы
@@ -287,11 +282,7 @@ git push
 
 ---
 
-### Вот сылки на некоторые скриншоты в Google Диске для подтверждения проделанной работы
-
-* [Скриншот №1](https://drive.google.com/file/d/1sEHHfwL0jIIV1631cKB4WdUYOkg8WOzv/view?usp=sharing) 
-* [Скриншот №2](https://drive.google.com/file/d/1zPHjo2CPDRMfcicWBQFPX4Y4wvotbK8d/view?usp=sharing) 
-* [Скриншот №3](https://drive.google.com/file/d/1qouj-SbXsuUJUYAJB-SczlZkVl5h86Cb/view?usp=sharing) 
+### скриншоты
 
 ---
 ## часть 2
@@ -332,4 +323,6 @@ git push
 
 
 
+
+=======
 
