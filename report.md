@@ -379,14 +379,19 @@ Merge into Current Branch запускает стандартное слияни
 > **Обе эти функции работают только с коммитами, которые еще не были отправлены (pushed) на GitHub (в ветку main или master на сервере)**
 
 1. Выполним Undo Commit
+   
    ![IMAGE 2026-02-18 10:52:02](https://github.com/user-attachments/assets/c722aa59-c3bd-48af-81a6-408282b4a8f8)
    ![IMAGE 2026-02-18 10:52:55](https://github.com/user-attachments/assets/18e2663f-b01c-43b3-b4cf-94076b91f1de) Видим отмену последнего коммита. Изменения из этого коммита возвращаются в раздел **"Changes" как незакоммиченные**.
 
 2. Выполним Reset to Commit
+
+   
    ![IMAGE 2026-02-18 10:55:27](https://github.com/user-attachments/assets/c72b481c-c80d-47cc-99f7-46a65106750e) ![IMAGE 2026-02-18 10:55:34](https://github.com/user-attachments/assets/a65fce22-94e3-4e7e-9b58-7372a735472a) ![IMAGE 2026-02-18 10:55:42](https://github.com/user-attachments/assets/21fe3f58-f87b-4e93-9705-9c7bfa23ce33)
+   
    Вот наши коммиты, выполним reset.
 
    ![IMAGE 2026-02-18 10:56:13](https://github.com/user-attachments/assets/fa8c8e27-f9b3-4216-9783-f5dabc3b44c0)
+   
    Вернулись к тому коммиту, который зарезетили. И можем заметить, что коммиты, которые были сделаны после этого коммита, исчезают из истории ветки.
 
 
