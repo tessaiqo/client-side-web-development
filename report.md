@@ -335,15 +335,29 @@ git push
 
 ---
 
-### 5. Merge
+### 6. Merge
 
-0. Создала тестовый репозиторий![IMAGE 2026-02-18 10:08:09](https://github.com/user-attachments/assets/b6ae1225-fd07-43e2-bbd8-37d07924ab91)
+**Merge (слияние)** — это операция в Git, которая объединяет изменения из одной ветки (branch) в другую. Она позволяет интегрировать независимо разработанные фрагменты кода, например, когда вы завершили работу над новой функцией в отдельной ветке и хотите перенести её в основную ветку разработки (например, main или master).
+```
+#### Как?
 
-0.
+1. Создала тестовый репозиторий![IMAGE 2026-02-18 10:08:09](https://github.com/user-attachments/assets/b6ae1225-fd07-43e2-bbd8-37d07924ab91)
 
+2. Далее создала ветку one-branch, в которой два файла. В ветке main один файл.
+![IMAGE 2026-02-18 10:12:24](https://github.com/user-attachments/assets/7ca2ecec-4161-43cb-a0ca-5b9a5dc2c3dc)![IMAGE 2026-02-18 10:12:28](https://github.com/user-attachments/assets/609d8925-d20d-4a22-aa86-d6579e77e79c)
+3. Выполним слияние веток.
+```
+Merge into Current Branch запускает стандартное слияние выбранной ветки в текущую. Это классический git merge <branch>.
+```
+![IMAGE 2026-02-18 10:15:04](https://github.com/user-attachments/assets/4a21b868-22c1-494a-b109-b00947a07520)
+![IMAGE 2026-02-18 10:15:08](https://github.com/user-attachments/assets/7cf130c0-3863-496f-98ee-73a27c2655c2)
 
+4. Выполнили слияние веток.
+![IMAGE 2026-02-18 10:15:51](https://github.com/user-attachments/assets/849f4b4f-d0a1-436b-a3d8-11b69a867f92)
 
 ---
+
+### 7. Удаление (git branch -d)
 
 ### Вывод
 
